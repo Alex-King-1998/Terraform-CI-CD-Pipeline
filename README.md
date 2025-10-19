@@ -30,7 +30,7 @@ This project demonstrates a fully automated CI/CD workflow for Terraform infrast
 ├─ **.github/workflows/**  
  └─ **terraform-deploy.yml** # CI/CD workflow  
 ├─ **main.tf** # Example backend and provider setup  
-├─ **variables.tf** # Input variables for Terraform  
+├─ **variables.tf** # Input variables for Terraform
 ├─ **README.md** # Project documentation  
 
 ---
@@ -68,13 +68,13 @@ aws dynamodb create-table \
 
 ## **📸 Run Screenshots**
 
-![Run 1](run-1.png)
+![Run 1](images/run-1.png)
 
-![Run 2](run-2.png)
+![Run 2](images/run-2.png)
 
-![Run 3](run-3.png)
+![Run 3](images/run-3.png)
 
-![Run 4](run-4.png)
+![Run 4](images/run-4.png)
 
-![Run 5](run-5.png)
+![Run 5](images/run-5.png)
 
