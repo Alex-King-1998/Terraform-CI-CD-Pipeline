@@ -66,4 +66,15 @@ aws dynamodb create-table \
 
 
 
-## **📸 Screenshots / Demo**
+## **📸 Run Screenshots**
+
+![Run 1](run-1.png)
+
+![Run 2](run-2.png)
+
+![Run 3](run-3.png)
+
+![Run 4](run-4.png)
+
+![Run 5](run-5.png)
+
