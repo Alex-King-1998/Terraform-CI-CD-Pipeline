@@ -30,7 +30,7 @@ This project demonstrates a fully automated CI/CD workflow for Terraform infrast
 ├─ **.github/workflows/**  
  └─ **terraform-deploy.yml** # CI/CD workflow  
 ├─ **main.tf** # Example backend and provider setup  
-├─ **variables.tf** # Input variables for Terraform
+├─ **variables.tf** # Input variables for Terraform  
 ├─ **README.md** # Project documentation  
 
 ---
